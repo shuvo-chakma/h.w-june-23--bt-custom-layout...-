@@ -1,0 +1,23 @@
+.header, .hero, .body, .bar, .six, .footer{
+	background-color: rgb(141, 141, 141);
+	margin-bottom: 10px;
+}
+
+.box{
+	height: 80px;
+	background-color: #ff70f8;
+	margin: 10px 0;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+
+}
+.red{
+	background-color: rgb(86, 194, 92);
+}
+.five{
+	background-color: rgb(255, 225, 58);
+}
+.hh{
+    text-align: center;
+}
